@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="text_view_pitch" />
+    <item type="id" name="text_view_roll"/>
+    <item type="id" name="text_view_azimuth"/>
+    <item type="id" name="button_orientation"/>
+    <item type="id" name="checkbox_orientation"/>
+</resources>
